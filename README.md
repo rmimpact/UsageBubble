@@ -18,6 +18,6 @@ Open the installer and follow the steps. UsageBubble is installed in Application
 
 Requires a Mac with Apple Silicon and macOS 13 or later.
 
-> If macOS says it can't verify the app, open **System Settings → Privacy & Security** and click **Open Anyway**. Releases will be notarized by Apple soon, and then this step goes away.
+Signed with a Developer ID and notarized by Apple.
 
 This repository only holds the releases.
